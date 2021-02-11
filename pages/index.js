@@ -5,8 +5,12 @@ export default function Home() {
   return (
     <Layout>
       <div className=' h-80 flex justify-center items-center'>
-        Hello World.
-      </div>
+        <section className='min-w-full bg-purple-400'>
+          <div className='relative'>
+
+          </div>
+        </section>
+          </div>
     </Layout>
   )
 }

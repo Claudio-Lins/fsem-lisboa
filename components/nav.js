@@ -34,7 +34,7 @@ const Nav = () => {
               <div className='ml-10'>
                 <Link href="#">
                   <a className="text-blue-500 no-underline text-accent-1 dark:text-blue-300">
-                    <h3>Concept</h3>
+                    <h3>Apresentação</h3>
                   </a>
                 </Link>
               </div>
